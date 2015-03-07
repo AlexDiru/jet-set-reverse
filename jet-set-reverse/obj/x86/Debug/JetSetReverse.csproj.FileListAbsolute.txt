@@ -1,0 +1,9 @@
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\bin\Debug\JetSetReverse.exe
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\bin\Debug\JetSetReverse.pdb
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\JetSetReverse.exe
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\JetSetReverse.pdb
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\JSReverse.CharacterModderForm.resources
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Debug\JSReverse.Properties.Resources.resources

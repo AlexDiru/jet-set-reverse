@@ -1,0 +1,11 @@
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\bin\Release\JetSetReverse.exe
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\bin\Release\JetSetReverse.pdb
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\JSReverse.Properties.Resources.resources
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\JetSetReverse.exe
+c:\users\alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\JetSetReverse.pdb
+C:\Users\Alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\JSReverse.InitialForm.resources
+C:\Users\Alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\JSReverse.TextureModderForm.resources
+C:\Users\Alex\dropbox\jet set reverse\jet-set-reverse\obj\x86\Release\JSReverse.PreferencesForm.resources
