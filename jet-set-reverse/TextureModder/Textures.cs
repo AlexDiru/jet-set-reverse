@@ -33,7 +33,7 @@ namespace JSReverse.TextureModder
             StageTextures.Add(new StageTexture(JSR.Stage.ShibuyaArea3Part2, "TEXPACK_ST1_AREA3_01.TXP", 21));
             StageTextures.Add(new StageTexture(JSR.Stage.ShibuyaArea4Part1, "TEXPACK_ST1_AREA4_00.TXP", 19));
             StageTextures.Add(new StageTexture(JSR.Stage.ShibuyaArea4Part2, "TEXPACK_ST1_AREA4_01.TXP", 13));
-            StageTextures.Add(new StageTexture(JSR.Stage.ShibuyaArea4Part2, "TEXPACK_ST1_AREA4_02.TXP", 7));
+            StageTextures.Add(new StageTexture(JSR.Stage.ShibuyaArea4Part3, "TEXPACK_ST1_AREA4_02.TXP", 7));
         }
     }
 }
